@@ -1,7 +1,6 @@
 ## Welcome!
-This is Hanna Chung’s GitHub page for Emerging Tech subject.
+This is Hanna Chung’s GitHub page for Emerging Tech subject. Feel free to bookmark this to keep an eye on my project updates.
 
-Feel free to bookmark this to keep an eye on my project updates.
 
 You can use the [editor on GitHub](https://github.com/Hanna-Chung/hanna-chung/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
